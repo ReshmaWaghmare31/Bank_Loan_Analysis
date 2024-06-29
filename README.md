@@ -13,6 +13,7 @@ The Bank Loan Report project dives deep into monitoring and evaluating a bank's 
 
 📊 Details: In-depth examination of individual loan data.
 
+
 ➣Focused on key KPIs:
 
 📈 Total Loan Applications
@@ -27,6 +28,7 @@ The Bank Loan Report project dives deep into monitoring and evaluating a bank's 
 
 👍 Good Loan vs. Bad Loan Metrics
 
+
 This project revolutionizes financial data analysis! 🌟
 
 Dashboard 1: 📈 KPIs tracking loan applications, funded amount, received amount, avg. interest rate, and debt-to-income ratio. 🏦 Categorizes loans into good and bad, offering insights into application percentages and amounts.
@@ -37,6 +39,7 @@ Dashboard 3: 📋 Offers detailed insights into loan metrics, borrower profiles,
 
 🚀 Insights and Conclusions from Bank Loan Case Study:
 
+
 ✔ Analyzed bank loan data, reporting 13.0% MoM growth in funded amounts and a 15.8% increase in total amounts received.
 
 ✔ Reported key metrics, including a 3.5% average interest rate increase and a 2.7% DTI ratio improvement MoM, aiding strategic planning.
@@ -44,3 +47,4 @@ Dashboard 3: 📋 Offers detailed insights into loan metrics, borrower profiles,
 ✔ Monitored loan portfolio, highlighting an 86.2% good loan rate, and provided insights for risk management and credit evaluation.
 
 ✔ Conducted segmentation analysis by geography, loan purpose, and customer profiles, contributing to targeted marketing and product development.
+
