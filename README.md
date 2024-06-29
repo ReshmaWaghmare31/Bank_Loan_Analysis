@@ -6,17 +6,27 @@ The Bank Loan Report project dives deep into monitoring and evaluating a bank's 
 ▪️ This Excel dashboard aims to facilitate data-driven decision-making and strategic planning.
 
 ➣Featured three insightful report pages:
+
 📝 Summary: Concise overview of key metrics and trends.
+
 📈 Overview: High-level analysis of loan portfolio performance.
+
 📊 Details: In-depth examination of individual loan data.
 
 ➣Focused on key KPIs:
+
 📈 Total Loan Applications
+
 💰 Total Funded Amount
+
 💸 Total Amount Received
+
 📊 Average Interest Rate
+
 🔄 Average Debt-to-Income Ratio
+
 👍 Good Loan vs. Bad Loan Metrics
+
 This project revolutionizes financial data analysis! 🌟
 
 Dashboard 1: 📈 KPIs tracking loan applications, funded amount, received amount, avg. interest rate, and debt-to-income ratio. 🏦 Categorizes loans into good and bad, offering insights into application percentages and amounts.
