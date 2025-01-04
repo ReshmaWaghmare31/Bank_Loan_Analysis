@@ -1,5 +1,5 @@
 # Bank_Loan_Analysis
-🚀 Excited to share my latest Power BI Dashboard project : Bank Loan Analysis 💼💰
+🚀 Bank Loan Analysis 💼💰
 
 📌 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞 :-
 The Bank Loan Report project dives deep into monitoring and evaluating a bank's lending activities, providing comprehensive insights into loan- related metrics.
