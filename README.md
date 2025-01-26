@@ -3,7 +3,7 @@
 
 📌 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞 :-
 The Bank Loan Report project dives deep into monitoring and evaluating a bank's lending activities, providing comprehensive insights into loan- related metrics.
-▪️ This Excel dashboard aims to facilitate data-driven decision-making and strategic planning.
+▪️ This dashboard aims to facilitate data-driven decision-making and strategic planning.
 
 ➣Featured three insightful report pages:
 
@@ -47,4 +47,18 @@ Dashboard 3: 📋 Offers detailed insights into loan metrics, borrower profiles,
 ✔ Monitored loan portfolio, highlighting an 86.2% good loan rate, and provided insights for risk management and credit evaluation.
 
 ✔ Conducted segmentation analysis by geography, loan purpose, and customer profiles, contributing to targeted marketing and product development.
+
+Dashboard 1:
+
+![BANK1](https://github.com/user-attachments/assets/a7c2e68a-9d24-430b-a199-b07e550fe493)
+
+Dashboard 2:
+
+![BANK2](https://github.com/user-attachments/assets/8dddcbda-c9f6-4066-bffe-ecca3aae8e6b)
+
+Dashboard 3:
+
+![BANK3](https://github.com/user-attachments/assets/67aeb96b-2690-4a1d-9917-37a401754cab)
+
+
 
